@@ -1,0 +1,15 @@
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\Cronômetro.csproj.AssemblyReference.cache
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\Cronômetro.GeneratedMSBuildEditorConfig.editorconfig
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\Cronômetro.AssemblyInfoInputs.cache
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\Cronômetro.AssemblyInfo.cs
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\Cronômetro.csproj.CoreCompileInputs.cache
+H:\Marco Jobim\Exercícios C#\Cronômetro\bin\Debug\net6.0\Cronômetro.exe
+H:\Marco Jobim\Exercícios C#\Cronômetro\bin\Debug\net6.0\Cronômetro.deps.json
+H:\Marco Jobim\Exercícios C#\Cronômetro\bin\Debug\net6.0\Cronômetro.runtimeconfig.json
+H:\Marco Jobim\Exercícios C#\Cronômetro\bin\Debug\net6.0\Cronômetro.dll
+H:\Marco Jobim\Exercícios C#\Cronômetro\bin\Debug\net6.0\ref\Cronômetro.dll
+H:\Marco Jobim\Exercícios C#\Cronômetro\bin\Debug\net6.0\Cronômetro.pdb
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\Cronômetro.dll
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\ref\Cronômetro.dll
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\Cronômetro.pdb
+H:\Marco Jobim\Exercícios C#\Cronômetro\obj\Debug\net6.0\Cronômetro.genruntimeconfig.cache

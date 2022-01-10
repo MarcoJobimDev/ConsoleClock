@@ -1,0 +1,30 @@
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\Clock.csproj.AssemblyReference.cache
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\Clock.AssemblyInfoInputs.cache
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\Clock.AssemblyInfo.cs
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\Clock.csproj.CoreCompileInputs.cache
+H:\Marco Jobim\Exercícios C#\Clock\bin\Debug\net6.0\Clock.exe
+H:\Marco Jobim\Exercícios C#\Clock\bin\Debug\net6.0\Clock.deps.json
+H:\Marco Jobim\Exercícios C#\Clock\bin\Debug\net6.0\Clock.runtimeconfig.json
+H:\Marco Jobim\Exercícios C#\Clock\bin\Debug\net6.0\Clock.dll
+H:\Marco Jobim\Exercícios C#\Clock\bin\Debug\net6.0\ref\Clock.dll
+H:\Marco Jobim\Exercícios C#\Clock\bin\Debug\net6.0\Clock.pdb
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\Clock.dll
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\ref\Clock.dll
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\Clock.pdb
+H:\Marco Jobim\Exercícios C#\Clock\obj\Debug\net6.0\Clock.genruntimeconfig.cache
+H:\ExerciciosCSharp\Clock\bin\Debug\net6.0\Clock.exe
+H:\ExerciciosCSharp\Clock\bin\Debug\net6.0\Clock.deps.json
+H:\ExerciciosCSharp\Clock\bin\Debug\net6.0\Clock.runtimeconfig.json
+H:\ExerciciosCSharp\Clock\bin\Debug\net6.0\Clock.dll
+H:\ExerciciosCSharp\Clock\bin\Debug\net6.0\ref\Clock.dll
+H:\ExerciciosCSharp\Clock\bin\Debug\net6.0\Clock.pdb
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\Clock.csproj.AssemblyReference.cache
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\Clock.AssemblyInfoInputs.cache
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\Clock.AssemblyInfo.cs
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\Clock.csproj.CoreCompileInputs.cache
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\Clock.dll
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\ref\Clock.dll
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\Clock.pdb
+H:\ExerciciosCSharp\Clock\obj\Debug\net6.0\Clock.genruntimeconfig.cache
